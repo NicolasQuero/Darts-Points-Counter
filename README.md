@@ -1,3 +1,3 @@
-# App designed to keep track of the points when doing a game of Darts!
+# App designed to keep track of the points in a game of Darts!
 
-# Just add the users then hit the start button and click on a player to add points to him (negative scores work as well).
+# Just add the players then hit the start button. Click on a player to increase its points (negative inputs work as well).
